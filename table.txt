@@ -1,0 +1,366 @@
+<table width="1000px" height="500px">
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">10</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td><input class="s10-1" type="text" value="ф"></td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td><input class="s10-2" type="text" value="е"></td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">11</td>
+        <td><input class="s11-1" type="text" value="с"></td>
+        <td><input class="s11-2" type="text" value="т"></td>
+        <td><input class="s11-3 s10-3" type="text" value="в"></td>
+        <td><input class="s11-4" type="text" value="о"></td>
+        <td><input class="s11-5" type="text" value="л"></td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td> <input class="s10-4" type="text" value="р"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">9</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">7</td>
+        <td style="opacity: 0%;"></td>
+        <td><input class="s10-5" type="text" value="а"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td id="s9-1">к</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">8</td>
+        <td id="s8-1 s7-1">к</td>
+        <td id="s8-2">о</td>
+        <td><input class="s10-6 s8-3" type="text" value="л"></td>
+        <td id="s8-4">ь</td>
+        <td id="s8-5">ч</td>
+        <td id="s8-6">у</td>
+        <td id="s8-7">г</td>
+        <td id="s8-8">а</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>а</td>
+        <td style="opacity: 0%;"></td>
+        <td><input class="s10-7" type="text" value="ь"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>л</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>с</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">14</td>
+        <td>а</td>
+        <td>р</td>
+        <td>м</td>
+        <td>и</td>
+        <td>я</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">3</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>к</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">13</td>
+        <td style="opacity: 0%;"></td>
+        <td>ш</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num"">5</td>
+        <td>с</td>
+        <td>п</td>
+        <td>е</td>
+        <td>ц</td>
+        <td>н</td>
+        <td>а</td>
+        <td>з</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>в</td>
+        <td style="opacity: 0%;"></td>
+        <td>н</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">2</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>в</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">12</td>
+        <td>р</td>
+        <td>о</td>
+        <td>д</td>
+        <td>и</td>
+        <td>н</td>
+        <td>а</td>
+    </tr>
+    <tr height="50px">
+        <td class="num">1</td>
+        <td>п</td>
+        <td>о</td>
+        <td>д</td>
+        <td>в</td>
+        <td>о</td>
+        <td>д</td>
+        <td>н</td>
+        <td>и</td>
+        <td>к</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>и</td>
+        <td style="opacity: 0%;"></td>
+        <td>к</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>с</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>с</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>н</td>
+        <td style="opacity: 0%;"></td>
+        <td>о</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>а</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td class="num">4</td>
+        <td>т</td>
+        <td>а</td>
+        <td>н</td>
+        <td>к</td>
+        <td>и</td>
+        <td>с</td>
+        <td>т</td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>в</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>д</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>н</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td class="num">6</td>
+        <td>т</td>
+        <td>р</td>
+        <td>и</td>
+    </tr>
+    <tr height="50px">
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td style="opacity: 0%;"></td>
+        <td>к</td>
+    </tr>
+    </table>
+        
+        <button onclick="getAnswer()">Проверить</button>
+    </div>
